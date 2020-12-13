@@ -1,0 +1,26 @@
+{
+  "name": "placermc",
+  "version": "2.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theplacer/PlacerMC.git"
+  },
+  "author": "QBt5_ and theplacer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theplacer/PlacerMC/issues"
+  },
+  "homepage": "https://github.com/theplacer/PlacerMC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "esm": "^3.2.25"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
